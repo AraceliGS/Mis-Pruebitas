@@ -1,0 +1,70 @@
+* {
+
+  font-family: monospace;
+
+  color: inherit;
+
+}
+
+body {
+  background-color: pink;
+}
+
+img {
+
+  width: 400px;
+
+}
+
+#red {
+
+  color: red;
+
+}
+
+#green {
+
+  color: green;
+
+}
+
+#blue {
+
+  color: blue;
+}
+
+#yellow {
+
+  color: yellow;
+
+}
+
+#orange {
+
+  color: orange;
+
+}
+
+
+.title {
+  font-family: sans-serif;
+  color: purple;
+}
+
+.title:hover {
+
+  color:red;
+
+}
+/*div img {
+
+  width: 300px;
+
+}
+*/
+
+#container-image img {
+
+  width: 300px;
+
+}

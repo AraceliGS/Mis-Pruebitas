@@ -1,0 +1,43 @@
+* {
+
+  box-sizing: border-box;
+}
+
+
+body {
+
+background-color: inherit;
+
+}
+
+#title { /*h1 */
+
+   text-align: center;
+   width: 300px;
+   padding: 8px;
+   border: 1px solid blue;
+   margin: 16px;
+ }
+
+#subtitle {
+  width: 300px;
+  padding: 8px;
+  border: 1px solid red;
+  margin: 16px;
+}
+
+.enlaces {
+
+  color:black;
+  text-decoration: none;
+  border: 1px solid blue;
+  margin-left: 4px;
+  width: 200px;
+  height: 200px;
+  display: block;
+}
+
+.enlaces:hover {
+
+  text-decoration: underline;
+}
